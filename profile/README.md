@@ -44,4 +44,3 @@ Com ele, a barbearia pode divulgar seus serviços, receber agendamentos online e
 🌐 Site: https://criacodeagencia.com.br  
 📱 WhatsApp: [(21) 96675-2992](https://wa.me/5521966752992)  
 📧 E-mail: [contato@criacodeagencia.com.br](mailto:contato@criacodeagencia.com.br)  
-📸 Instagram: [@criacode_agencia](https://www.instagram.com/criacode_agencia)
